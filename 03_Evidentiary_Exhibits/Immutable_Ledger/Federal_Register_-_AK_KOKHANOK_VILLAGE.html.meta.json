@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+KOKHANOK+VILLAGE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+KOKHANOK+VILLAGE",
+  "title": "Federal Register - AK KOKHANOK VILLAGE",
+  "fetched_at": "2026-11-23T16:05:15.628609Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 209562,
+  "sha256": "620bca37e3df6fcbed6e8aa4b0aaf69734080f793f9f3a7cc8182631783c82d8",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
